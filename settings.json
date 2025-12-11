@@ -1,0 +1,22 @@
+{
+    "autostart_tray": false,
+    "available_drops_check": false,
+    "connection_quality": 1,
+    "dark_mode": false,
+    "enable_badges_emotes": false,
+    "exclude": {
+        "__type": "set",
+        "data": []
+    },
+    "language": "\u7b80\u4f53\u4e2d\u6587",
+    "priority": [],
+    "priority_mode": {
+        "__type": "PriorityMode",
+        "data": 0
+    },
+    "proxy": {
+        "__type": "URL",
+        "data": "http://127.0.0.1:7890"
+    },
+    "tray_notifications": true
+}
